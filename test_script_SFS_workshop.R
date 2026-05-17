@@ -9,6 +9,11 @@
 
 #back to second branch; trying to figure out why I can't pull and push to 2nd branch
 
-chnage
+
+
+#change
 
 #4th branch!!!
+h
+
+#baCK TO MAIN, ADDING TEXT, CHECKING IF i CAN PUll AND PUSH AFTER COMMITTING; NOT SURE WHY i COULDN'T DO THAT AFTER ADDINGB TEXT TO BRANCH
